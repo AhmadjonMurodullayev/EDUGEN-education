@@ -1,0 +1,11 @@
+.banner-content .button-list .play-button {
+  overflow: hidden;
+}
+
+.ri-play-fill {
+  text-decoration: none;
+  vertical-align:15px;
+  &::after {
+    content: "";
+  }
+}
